@@ -1,16 +1,15 @@
-# login_bloc
+# Flutter Bloc Pattern ile Login Ekranı Örneği
 
-A new Flutter project.
+Bu proje, Flutter'da popüler bir state management yöntemi olan Bloc Pattern kullanarak bir Login ekranı örneği içerir.
 
-## Getting Started
+## Kullanılan Paketler
 
-This project is a starting point for a Flutter application.
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc): Flutter uygulamalarında Bloc mimarisini uygulamak için kullanılan paket.
+- [equatable](https://pub.dev/packages/equatable): Dart sınıflarını karşılaştırmak için kullanılan paket.
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Projeyi klonlamak için:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/KullanıcıAdı/ProjeAdı.git
